@@ -12,7 +12,7 @@ Define Text Editor is a simpale text editor app that allows you to work online a
 * [License](#license)
     
 ## Installation
-To run locally go to: Go to (https://define-text-editor.herokuapp.com/) and click the "install" button to install locally. 
+To run locally go to: Go to (https://devinetexteditor-test.herokuapp.com/) and click the "install" button to install locally. 
 
 For clone or download: 
 * Clone this repository, please note that Node.js is required. 
@@ -24,6 +24,16 @@ Run the following commands:
 
 ## Usage
 As stated before the purpose is to be able to use this simple application to write text on and offline. 
+
+![Video Example](assets/text_editor.mp4)
+
+![Image Example](assets/text_editor.png)
+
+![Image Example](assets/text_editor2.png)
+
+![Image Example](assets/text_editor3.png)
+
+![Image Example](assets/text_editor4.png)
 
 ## Contribution
 If you would like to contribute to this project and would like to reach out my contact information is below.
