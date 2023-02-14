@@ -1,10 +1,10 @@
 /* app shell CSS */
 :root {
-  --primary: #31a9e1;
+  --primary: hsl(221, 65%, 36%);
   --gray: #ececec;
   --whitesmoke: #f5f5f5;
   --dark: #222;
-  --monoaki: #272822;
+  --monoaki: #0F111A;
   --navbar-height: 50px;
 }
 
@@ -90,7 +90,7 @@ h1 {
   border-radius: 0.3rem;
   border: 1px solid transparent;
   outline: none;
-  color: #1a1a1a;
+  color: #000000;
   background-color: #aeaeae;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
@@ -130,7 +130,7 @@ h1 {
 }
 
 .btn.btn-danger {
-  background-color: #e64c66;
+  background-color: #e9763d;
   color: #ffffff;
 }
 
@@ -144,7 +144,7 @@ h1 {
 }
 
 .btn.btn-info:hover {
-  background-color: #31e1bd;
+  background-color: #31bbe1;
 }
 
 .btn.btn-light {
@@ -207,5 +207,6 @@ h1 {
 
   h1 {
     font-size: 18px;
+    color: white;
   }
 }

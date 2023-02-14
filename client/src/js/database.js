@@ -1,3 +1,4 @@
+// import { text } from 'express';
 import { openDB } from 'idb';
 
 const initdb = async () =>
@@ -7,7 +8,7 @@ const initdb = async () =>
         console.log('text database already exists');
         return;
       }
-      db.createObjectStore('jate', { keyPath: 'id', autoIncrement: true });
+      db.createObjectStore('text', { keyPath: 'id', autoIncrement: true });
       console.log('text database created');
     },
   });
