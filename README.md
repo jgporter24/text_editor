@@ -25,7 +25,7 @@ Run the following commands:
 ## Usage
 As stated before the purpose is to be able to use this simple application to write text on and offline. 
 
-![Video Example](assets/text_editor.mp4)
+![Video Example](https://user-images.githubusercontent.com/110738676/218641448-2df37762-1a6f-42a9-8910-7d03a5b8d8ca.mp4)
 
 ![Image Example](assets/text_editor.png)
 
